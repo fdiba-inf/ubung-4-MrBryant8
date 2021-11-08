@@ -23,6 +23,6 @@ public class MinIndex {
             minI=i;
             }
         }
-        System.out.println(minI);
+        System.out.println("Min index: " +minI);
     }
 }

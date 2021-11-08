@@ -24,7 +24,7 @@ public class MaxElement {
         }*/
             max=Math.max(max,numbers[i]);
         }
-        System.out.println( max );
+        System.out.println( "Max number: "+max );
 
         //Arrays .stream(numbers).max().getAsDouble()
 

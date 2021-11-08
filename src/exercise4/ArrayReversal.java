@@ -45,7 +45,7 @@ public class ArrayReversal {
             reversedIndex++;
         }
         String reversedString=Arrays.toString(reversedSymbols);
-        System.out.println("Reversed symbols:"+reversedString);
+        System.out.println("Reversed symbols: "+reversedString);
 
     }
 }
